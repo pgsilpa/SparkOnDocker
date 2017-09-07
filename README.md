@@ -56,3 +56,7 @@ $ spark-submit --class com.test.HelloWorld.App  HelloWorld-0.0.1-SNAPSHOT.jar
 ```
 Note : This is the basic Hello world application 
 
+Viewing Spark UI
+After triggering the spark-submit from container use the Desktop/Laptop Ip address to view the spark UI as below
+http://<<IpAddess>>:4040
+
