@@ -40,9 +40,9 @@ $ docker ps
 
 Login in to container as below to run the spark applications
 ```sh
-$ docker exec -ti <<<ContainerId>> bash
+$ docker exec -ti <<ContainerId>> bash
 ```
-Note : ContainerId is the one got from <<docker ps>> command  
+Note : ContainerId is the one got from $ docker ps command  
 
 After logging into container go to the path where spark application jar is copied 
 ```sh
