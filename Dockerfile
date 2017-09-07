@@ -1,4 +1,6 @@
 FROM java:8 
+
+# Downloads the latest spark version for docker Hub
 FROM p7hb/docker-spark
 
 # Adding source, compile and package into a fat jar
