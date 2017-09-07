@@ -1,5 +1,5 @@
 
-### Contains the steps to run the Spark application on Docker Container
+### Contains the steps to run the Spark application on Docker Container on Standalone Mode
 
 Pre-requisites:
 
