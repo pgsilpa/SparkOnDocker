@@ -3,7 +3,7 @@
 
 Pre-requisites:
 
-* Copy the Docker file to the project directory
+* Copy/create the Docker file to the project directory
 
 ### Steps to Build and Run
 
