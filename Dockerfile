@@ -1,6 +1,8 @@
 FROM java:8 
 
 # Downloads the latest spark version for docker Hub
+### NOTE : To get the specific version of spark use p7hb/p7hb-docker-spark:<<spark-version>>
+# Example : FROM p7hb/p7hb-docker-spark:1.6.2
 FROM p7hb/docker-spark
 
 # Creating Directory in Container to place the application jars
